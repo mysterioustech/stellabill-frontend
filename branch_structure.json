@@ -1,0 +1,24 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "main",
+    "origin",
+    "uiux/manual-retry-override",
+    "uiux/plans-carousel-landing",
+    "uiux/statement-of-account"
+  ],
+  "parent": {
+    "main": null,
+    "origin": "main",
+    "uiux/manual-retry-override": "main",
+    "uiux/plans-carousel-landing": "main",
+    "uiux/statement-of-account": "main"
+  },
+  "order": [
+    "main",
+    "origin",
+    "uiux/manual-retry-override",
+    "uiux/plans-carousel-landing",
+    "uiux/statement-of-account"
+  ]
+}
